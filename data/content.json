@@ -1,0 +1,10 @@
+{
+  "layout": "browser",
+  "version": "1.0",
+  "resolution": "1080p",
+  "title": "Stremio",
+  "browser": {
+    "url": "https://tv.strem.io",
+    "scale": "fit"
+}
+}
