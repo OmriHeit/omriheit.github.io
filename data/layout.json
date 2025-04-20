@@ -1,0 +1,54 @@
+{
+  "styles": {
+    "global": {
+      "fontSize": "16px",
+      "lineHeight": 1.5,
+      "imageRendering": "high-quality"
+    },
+    "container": {
+      "width": "100%",
+      "maxWidth": "1920px",
+      "margin": "0 auto"
+    },
+    "elements": {
+      "button": {
+        "minHeight": "48px",
+        "padding": "12px 24px",
+        "fontSize": "18px"
+      },
+      "text": {
+        "fontSize": "18px",
+        "lineHeight": 1.6
+      },
+      "heading": {
+        "fontSize": "32px",
+        "lineHeight": 1.2,
+        "marginBottom": "16px"
+      }
+    }
+  },
+  "responsive": {
+    "breakpoints": {
+      "small": 768,
+      "medium": 1280,
+      "large": 1920
+    },
+    "rules": {
+      "small": {
+        "global": {
+          "fontSize": "14px"
+        }
+      },
+      "medium": {
+        "global": {
+          "fontSize": "16px"
+        }
+      },
+      "large": {
+        "global": {
+          "fontSize": "18px"
+        }
+      }
+    }
+  }
+}

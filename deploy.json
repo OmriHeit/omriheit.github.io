@@ -1,0 +1,11 @@
+{
+  "repository": "omriheit.github.io",
+  "branch": "main",
+  "publishDir": "./",
+  "buildCommand": "",
+  "deploySettings": {
+    "cname": "",
+    "preserveFiles": true,
+    "cleanUrls": true
+  }
+}
