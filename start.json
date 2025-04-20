@@ -1,6 +1,21 @@
-{    
-    "name": "Start StremioMSX",
-    "version": "1.0.0",
-    "parameter": "content:https://omriheit.github.io/data/content.json",
-    "welcome": "none"
+{
+  "name": "Start StremioMSX",
+  "version": "1.0.0",
+  "parameter": "content:https://omriheit.github.io/data/content.json",
+  "welcome": "none",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "display": {
+    "scale": 1.0,
+    "responsive": true,
+    "aspectRatio": "16:9",
+    "optimizeForHD": true
+  },
+  "ui": {
+    "fontScale": 1.0,
+    "elementSpacing": "normal",
+    "imageQuality": "high"
+  }
 }
