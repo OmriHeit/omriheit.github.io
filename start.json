@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "content:https://omriheit.github.io/data/content.json",
+    "parameter": "content:https://omriheit.github.io/omriheit.github.io/data/content.json",
     "welcome": "none"
 }
