@@ -1,10 +1,13 @@
 {
-  "layout": "browser",
-  "version": "1.0",
-  "resolution": "1080p",
-  "title": "Stremio",
-  "browser": {
-    "url": "https://tv.strem.io",
-    "scale": "fit"
-}
+  "action": "link:https://tv.strem.io",
+  "settings": {
+    "display": {
+      "resolution": "1080p",
+      "scale": 1.0
+    },
+    "performance": {
+      "optimizeForResolution": true
+    }
+  },
+  "baseUrl": "https://omriheit.github.io"
 }
